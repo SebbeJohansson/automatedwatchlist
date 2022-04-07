@@ -1,0 +1,13 @@
+<?php
+
+    // INFO: This is where the definitions live.
+
+    define("DB_HOST", "127.0.0.1");
+    define("DB_USER", "root");
+    define("DB_PASS", "");
+    define("DB_DATABASE", "automatedwatchlist");
+    
+    define("TRAKT_ACCESSTOKEN", "");
+    define("TRAKT_REFRESHTOKEN", "");
+    define("TRAKT_CREATEDAT", "");
+    define("TRAKT_EXPIRESIN", "");
